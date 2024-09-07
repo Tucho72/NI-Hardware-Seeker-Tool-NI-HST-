@@ -9,4 +9,5 @@
 </Property>
 	<Item Name="FGV States.ctl" Type="VI" URL="../FGV States.ctl"/>
 	<Item Name="Queue Message.ctl" Type="VI" URL="../Queue Message.ctl"/>
+	<Item Name="User Events Cluster.ctl" Type="VI" URL="../User Events Cluster.ctl"/>
 </Library>
