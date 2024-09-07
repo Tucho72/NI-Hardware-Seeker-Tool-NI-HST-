@@ -14,7 +14,9 @@
 		<Item Name="Support" Type="Folder" URL="../Support">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
-		<Item Name="Dependencies" Type="Dependencies"/>
+		<Item Name="Dependencies" Type="Dependencies">
+			<Item Name="Message Queue.lvlib" Type="Library" URL="../../../../../../Downloads/CLA ADAN/ATM/support/Message Queue/Message Queue.lvlib"/>
+		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
 </Project>
