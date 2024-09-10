@@ -24,4 +24,5 @@
 		<Item Name="UI - Top VI.vi" Type="VI" URL="../UI - Top VI.vi"/>
 		<Item Name="UI Queue - Manage - Polymorphic.vi" Type="VI" URL="../UI Queue - Manage - Polymorphic.vi"/>
 	</Item>
+	<Item Name="Validate Device Data to Search.vi" Type="VI" URL="../Validate Device Data to Search.vi"/>
 </Library>
