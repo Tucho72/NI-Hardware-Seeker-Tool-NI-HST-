@@ -9,10 +9,10 @@
 </Property>
 	<Item Name="Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		<Item Name="Queue - Dequeue.vi" Type="VI" URL="../Queue - Dequeue.vi"/>
-		<Item Name="Queue - Enqueue.vi" Type="VI" URL="../Queue - Enqueue.vi"/>
+		<Item Name="QMH - Dequeue Element.vi" Type="VI" URL="../QMH - Dequeue Element.vi"/>
+		<Item Name="QMH - Enqueue Element.vi" Type="VI" URL="../QMH - Enqueue Element.vi"/>
 	</Item>
 	<Item Name="Public" Type="Folder">
-		<Item Name="Queue - Manage - Polymorphic.vi" Type="VI" URL="../Queue - Manage - Polymorphic.vi"/>
+		<Item Name="QMH - Polymorphic.vi" Type="VI" URL="../QMH - Polymorphic.vi"/>
 	</Item>
 </Library>

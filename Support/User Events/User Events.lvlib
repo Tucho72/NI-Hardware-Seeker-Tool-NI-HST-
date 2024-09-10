@@ -12,6 +12,7 @@
 		<Item Name="User Events - Create.vi" Type="VI" URL="../User Events - Create.vi"/>
 		<Item Name="User Events - Destroy.vi" Type="VI" URL="../User Events - Destroy.vi"/>
 		<Item Name="User Events - FGV.vi" Type="VI" URL="../User Events - FGV.vi"/>
+		<Item Name="User Events - Fire Error Event.vi" Type="VI" URL="../User Events - Fire Error Event.vi"/>
 		<Item Name="User Events - Fire STOP Event.vi" Type="VI" URL="../User Events - Fire STOP Event.vi"/>
 		<Item Name="User Events - Fire Timeout Event.vi" Type="VI" URL="../User Events - Fire Timeout Event.vi"/>
 		<Item Name="User Events - Get.vi" Type="VI" URL="../User Events - Get.vi"/>
