@@ -9,6 +9,7 @@
 </Property>
 	<Item Name="API" Type="Folder">
 		<Item Name="Ask to Close App.vi" Type="VI" URL="../Ask to Close App.vi"/>
+		<Item Name="Validate Device Data to Search.vi" Type="VI" URL="../Validate Device Data to Search.vi"/>
 	</Item>
 	<Item Name="Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
@@ -24,5 +25,4 @@
 		<Item Name="UI - Top VI.vi" Type="VI" URL="../UI - Top VI.vi"/>
 		<Item Name="UI Queue - Manage - Polymorphic.vi" Type="VI" URL="../UI Queue - Manage - Polymorphic.vi"/>
 	</Item>
-	<Item Name="Validate Device Data to Search.vi" Type="VI" URL="../Validate Device Data to Search.vi"/>
 </Library>
