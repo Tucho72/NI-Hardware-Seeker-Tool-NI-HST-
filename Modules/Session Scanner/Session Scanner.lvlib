@@ -8,7 +8,9 @@
 
 </Property>
 	<Item Name="API" Type="Folder">
-		<Item Name="Get or confirm IP address.vi" Type="VI" URL="../Get or confirm IP address.vi"/>
+		<Item Name="Confirm IP address.vi" Type="VI" URL="../Confirm IP address.vi"/>
+		<Item Name="Filter Remote Sessions.vi" Type="VI" URL="../Filter Remote Sessions.vi"/>
+		<Item Name="Get IP address and hostname.vi" Type="VI" URL="../Get IP address and hostname.vi"/>
 		<Item Name="Search Local Sessions.vi" Type="VI" URL="../Search Local Sessions.vi"/>
 		<Item Name="Search Remote Session.vi" Type="VI" URL="../Search Remote Session.vi"/>
 	</Item>
@@ -26,5 +28,4 @@
 		<Item Name="Scanner - Top VI.vi" Type="VI" URL="../Scanner - Top VI.vi"/>
 		<Item Name="Scanner Queue - Polymorphic.vi" Type="VI" URL="../Scanner Queue - Polymorphic.vi"/>
 	</Item>
-	<Item Name="Filter Remote Sessions.vi" Type="VI" URL="../Filter Remote Sessions.vi"/>
 </Library>
