@@ -11,6 +11,7 @@
 		<Item Name="Confirm IP address.vi" Type="VI" URL="../Confirm IP address.vi"/>
 		<Item Name="Filter Remote Sessions.vi" Type="VI" URL="../Filter Remote Sessions.vi"/>
 		<Item Name="Get IP address and hostname.vi" Type="VI" URL="../Get IP address and hostname.vi"/>
+		<Item Name="Get my IP addresses.vi" Type="VI" URL="../Get my IP addresses.vi"/>
 		<Item Name="Search Local Sessions.vi" Type="VI" URL="../Search Local Sessions.vi"/>
 		<Item Name="Search Remote Session.vi" Type="VI" URL="../Search Remote Session.vi"/>
 	</Item>

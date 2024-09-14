@@ -9,6 +9,7 @@
 </Property>
 	<Item Name="API" Type="Folder">
 		<Item Name="Ask to Close App.vi" Type="VI" URL="../Ask to Close App.vi"/>
+		<Item Name="Load Bar.vi" Type="VI" URL="../Load Bar.vi"/>
 		<Item Name="Validate Device Data to Search.vi" Type="VI" URL="../Validate Device Data to Search.vi"/>
 	</Item>
 	<Item Name="Private" Type="Folder">
