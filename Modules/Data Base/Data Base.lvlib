@@ -12,6 +12,7 @@
 		<Item Name="Load Saved Devices.vi" Type="VI" URL="../Load Saved Devices.vi"/>
 		<Item Name="Load Selected Device Info.vi" Type="VI" URL="../Load Selected Device Info.vi"/>
 		<Item Name="Load TCP Ports.vi" Type="VI" URL="../Load TCP Ports.vi"/>
+		<Item Name="Save Devices.vi" Type="VI" URL="../Save Devices.vi"/>
 		<Item Name="Update Devices Menu.vi" Type="VI" URL="../Update Devices Menu.vi"/>
 	</Item>
 	<Item Name="Private" Type="Folder">
