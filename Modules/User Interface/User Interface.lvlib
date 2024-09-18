@@ -11,6 +11,7 @@
 		<Item Name="Ask to Close App.vi" Type="VI" URL="../Ask to Close App.vi"/>
 		<Item Name="Load Bar.vi" Type="VI" URL="../Load Bar.vi"/>
 		<Item Name="Omit App SSH Results.vi" Type="VI" URL="../Omit App SSH Results.vi"/>
+		<Item Name="Omit RTEXE Results.vi" Type="VI" URL="../Omit RTEXE Results.vi"/>
 		<Item Name="Validate Device Data to Search.vi" Type="VI" URL="../Validate Device Data to Search.vi"/>
 	</Item>
 	<Item Name="Private" Type="Folder">
