@@ -9,7 +9,10 @@
 </Property>
 	<Item Name="API" Type="Folder">
 		<Item Name="File Management" Type="Folder">
-			<Item Name="App Settings" Type="Folder"/>
+			<Item Name="App Settings" Type="Folder">
+				<Item Name="Load App Settings.vi" Type="VI" URL="../Load App Settings.vi"/>
+				<Item Name="Save App Settings.vi" Type="VI" URL="../Save App Settings.vi"/>
+			</Item>
 			<Item Name="Saved Devices" Type="Folder">
 				<Item Name="Load Saved Devices.vi" Type="VI" URL="../Load Saved Devices.vi"/>
 				<Item Name="Save Devices.vi" Type="VI" URL="../Save Devices.vi"/>
