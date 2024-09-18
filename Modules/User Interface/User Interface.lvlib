@@ -11,8 +11,7 @@
 		<Item Name="Ask to Close App.vi" Type="VI" URL="../Ask to Close App.vi"/>
 		<Item Name="Device Visualization Settings Dialog Box.vi" Type="VI" URL="../Device Visualization Settings Dialog Box.vi"/>
 		<Item Name="Load Bar.vi" Type="VI" URL="../Load Bar.vi"/>
-		<Item Name="Omit App SSH Results.vi" Type="VI" URL="../Omit App SSH Results.vi"/>
-		<Item Name="Omit RTEXE Results.vi" Type="VI" URL="../Omit RTEXE Results.vi"/>
+		<Item Name="Manage RunTime Checkbox.vi" Type="VI" URL="../Manage RunTime Checkbox.vi"/>
 		<Item Name="Validate Device Data to Search.vi" Type="VI" URL="../Validate Device Data to Search.vi"/>
 	</Item>
 	<Item Name="Private" Type="Folder">
@@ -29,4 +28,5 @@
 		<Item Name="UI - Top VI.vi" Type="VI" URL="../UI - Top VI.vi"/>
 		<Item Name="UI Queue - Manage - Polymorphic.vi" Type="VI" URL="../UI Queue - Manage - Polymorphic.vi"/>
 	</Item>
+	<Item Name="Set App View.vi" Type="VI" URL="../Set App View.vi"/>
 </Library>
