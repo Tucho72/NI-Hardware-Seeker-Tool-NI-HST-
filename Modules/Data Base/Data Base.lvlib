@@ -8,11 +8,19 @@
 
 </Property>
 	<Item Name="API" Type="Folder">
+		<Item Name="File Management" Type="Folder">
+			<Item Name="App Settings" Type="Folder"/>
+			<Item Name="Saved Devices" Type="Folder">
+				<Item Name="Load Saved Devices.vi" Type="VI" URL="../Load Saved Devices.vi"/>
+				<Item Name="Save Devices.vi" Type="VI" URL="../Save Devices.vi"/>
+			</Item>
+			<Item Name="TCP Ports" Type="Folder">
+				<Item Name="Load TCP Ports.vi" Type="VI" URL="../Load TCP Ports.vi"/>
+				<Item Name="Save TCP Ports.vi" Type="VI" URL="../Save TCP Ports.vi"/>
+			</Item>
+		</Item>
 		<Item Name="Add Device.vi" Type="VI" URL="../Add Device.vi"/>
-		<Item Name="Load Saved Devices.vi" Type="VI" URL="../Load Saved Devices.vi"/>
 		<Item Name="Load Selected Device Info.vi" Type="VI" URL="../Load Selected Device Info.vi"/>
-		<Item Name="Load TCP Ports.vi" Type="VI" URL="../Load TCP Ports.vi"/>
-		<Item Name="Save Devices.vi" Type="VI" URL="../Save Devices.vi"/>
 		<Item Name="Update Devices Menu.vi" Type="VI" URL="../Update Devices Menu.vi"/>
 	</Item>
 	<Item Name="Private" Type="Folder">
