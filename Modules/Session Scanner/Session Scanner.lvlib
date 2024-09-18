@@ -14,6 +14,7 @@
 		<Item Name="Get my IP addresses.vi" Type="VI" URL="../Get my IP addresses.vi"/>
 		<Item Name="Search Local Sessions.vi" Type="VI" URL="../Search Local Sessions.vi"/>
 		<Item Name="Search Remote Session.vi" Type="VI" URL="../Search Remote Session.vi"/>
+		<Item Name="Trace SSH sessions.vi" Type="VI" URL="../Trace SSH sessions.vi"/>
 	</Item>
 	<Item Name="Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>

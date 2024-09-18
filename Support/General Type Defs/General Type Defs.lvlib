@@ -10,6 +10,9 @@
 	<Item Name="Globals" Type="Folder">
 		<Item Name="Global Data.vi" Type="VI" URL="../Global Data.vi"/>
 	</Item>
+	<Item Name="Run Time Menu" Type="Folder">
+		<Item Name="HST RunTime Menu.rtm" Type="Document" URL="../HST RunTime Menu.rtm"/>
+	</Item>
 	<Item Name="Device Data.ctl" Type="VI" URL="../Device Data.ctl"/>
 	<Item Name="Device OS.ctl" Type="VI" URL="../Device OS.ctl"/>
 	<Item Name="FGV States.ctl" Type="VI" URL="../FGV States.ctl"/>
