@@ -10,7 +10,11 @@
 	<Item Name="Globals" Type="Folder">
 		<Item Name="Global Data.vi" Type="VI" URL="../Global Data.vi"/>
 	</Item>
+<<<<<<< HEAD
 	<Item Name="RunTime Menu" Type="Folder">
+=======
+	<Item Name="Run Time Menu" Type="Folder">
+>>>>>>> add-UI-module
 		<Item Name="HST RunTime Menu.rtm" Type="Document" URL="../HST RunTime Menu.rtm"/>
 	</Item>
 	<Item Name="Device Data.ctl" Type="VI" URL="../Device Data.ctl"/>
