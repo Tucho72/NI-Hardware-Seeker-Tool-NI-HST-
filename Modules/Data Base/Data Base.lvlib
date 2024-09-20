@@ -14,6 +14,7 @@
 				<Item Name="Save App Settings.vi" Type="VI" URL="../Save App Settings.vi"/>
 			</Item>
 			<Item Name="Saved Devices" Type="Folder">
+				<Item Name="Delete Device.vi" Type="VI" URL="../Delete Device.vi"/>
 				<Item Name="Load Saved Devices.vi" Type="VI" URL="../Load Saved Devices.vi"/>
 				<Item Name="Save Devices.vi" Type="VI" URL="../Save Devices.vi"/>
 			</Item>
