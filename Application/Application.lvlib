@@ -9,4 +9,5 @@
 </Property>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 	<Item Name="Review Queues.vi" Type="VI" URL="../Review Queues.vi"/>
+	<Item Name="Shutdown.vi" Type="VI" URL="../Shutdown.vi"/>
 </Library>
