@@ -12,10 +12,10 @@
 			<Item Name="Edit Devices Menu View.vi" Type="VI" URL="../Edit Devices Menu View.vi"/>
 			<Item Name="Edit Existing Devices.vi" Type="VI" URL="../Edit Existing Devices.vi"/>
 			<Item Name="Edit TCP Ports.vi" Type="VI" URL="../Edit TCP Ports.vi"/>
+			<Item Name="Load Bar.vi" Type="VI" URL="../Load Bar.vi"/>
 			<Item Name="Run and Open from Async Call.vi" Type="VI" URL="../Run and Open from Async Call.vi"/>
 		</Item>
 		<Item Name="Ask to Close App.vi" Type="VI" URL="../Ask to Close App.vi"/>
-		<Item Name="Load Bar.vi" Type="VI" URL="../Load Bar.vi"/>
 		<Item Name="Manage RunTime Checkbox.vi" Type="VI" URL="../Manage RunTime Checkbox.vi"/>
 		<Item Name="Set App View.vi" Type="VI" URL="../Set App View.vi"/>
 		<Item Name="Validate Device Data to Search.vi" Type="VI" URL="../Validate Device Data to Search.vi"/>

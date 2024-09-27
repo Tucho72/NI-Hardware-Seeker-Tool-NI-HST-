@@ -9,7 +9,7 @@
 
 </Property>
 	<Item Name="Private" Type="Folder">
-		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 	</Item>
 	<Item Name="Launcher.vi" Type="VI" URL="../Launcher.vi"/>
