@@ -8,9 +8,6 @@
 
 </Property>
 	<Item Name="API" Type="Folder">
-		<Item Name="Errors" Type="Folder">
-			<Item Name="Verify Errors.vi" Type="VI" URL="../Verify Errors.vi"/>
-		</Item>
 		<Item Name="Interfaces" Type="Folder">
 			<Item Name="Edit Devices Menu View.vi" Type="VI" URL="../Edit Devices Menu View.vi"/>
 			<Item Name="Edit Existing Devices.vi" Type="VI" URL="../Edit Existing Devices.vi"/>

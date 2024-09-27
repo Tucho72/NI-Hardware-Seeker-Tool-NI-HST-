@@ -8,7 +8,7 @@
 
 </Property>
 	<Item Name="API" Type="Folder">
-		<Item Name="Propagate Error.vi" Type="VI" URL="../Propagate Error.vi"/>
+		<Item Name="Verify Errors.vi" Type="VI" URL="../Verify Errors.vi"/>
 	</Item>
 	<Item Name="Private" Type="Folder">
 		<Item Name="Error Queue - Create.vi" Type="VI" URL="../Error Queue - Create.vi"/>
