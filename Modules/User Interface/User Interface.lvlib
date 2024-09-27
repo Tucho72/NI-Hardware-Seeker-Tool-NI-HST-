@@ -8,14 +8,18 @@
 
 </Property>
 	<Item Name="API" Type="Folder">
+		<Item Name="Interfaces" Type="Folder">
+			<Item Name="Edit Devices Menu View.vi" Type="VI" URL="../Edit Devices Menu View.vi"/>
+			<Item Name="Edit Existing Devices.vi" Type="VI" URL="../Edit Existing Devices.vi"/>
+			<Item Name="Edit TCP Ports.vi" Type="VI" URL="../Edit TCP Ports.vi"/>
+			<Item Name="Run and Open from Async Call.vi" Type="VI" URL="../Run and Open from Async Call.vi"/>
+		</Item>
 		<Item Name="Ask to Close App.vi" Type="VI" URL="../Ask to Close App.vi"/>
-		<Item Name="Device Visualization Settings Dialog Box.vi" Type="VI" URL="../Device Visualization Settings Dialog Box.vi"/>
-		<Item Name="Edit Existing Devices.vi" Type="VI" URL="../Edit Existing Devices.vi"/>
-		<Item Name="Edit TCP Ports.vi" Type="VI" URL="../Edit TCP Ports.vi"/>
 		<Item Name="Load Bar.vi" Type="VI" URL="../Load Bar.vi"/>
 		<Item Name="Manage RunTime Checkbox.vi" Type="VI" URL="../Manage RunTime Checkbox.vi"/>
 		<Item Name="Set App View.vi" Type="VI" URL="../Set App View.vi"/>
 		<Item Name="Validate Device Data to Search.vi" Type="VI" URL="../Validate Device Data to Search.vi"/>
+		<Item Name="Verify Errors.vi" Type="VI" URL="../Verify Errors.vi"/>
 	</Item>
 	<Item Name="Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>

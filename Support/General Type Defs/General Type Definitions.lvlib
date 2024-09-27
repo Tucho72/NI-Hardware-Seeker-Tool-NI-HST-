@@ -13,6 +13,7 @@
 	<Item Name="Device Data.ctl" Type="VI" URL="../Device Data.ctl"/>
 	<Item Name="Device OS.ctl" Type="VI" URL="../Device OS.ctl"/>
 	<Item Name="Edit Devices States.ctl" Type="VI" URL="../Edit Devices States.ctl"/>
+	<Item Name="Error Handler Data.ctl" Type="VI" URL="../Error Handler Data.ctl"/>
 	<Item Name="FGV States.ctl" Type="VI" URL="../FGV States.ctl"/>
 	<Item Name="Queue Message.ctl" Type="VI" URL="../Queue Message.ctl"/>
 	<Item Name="User Events Cluster.ctl" Type="VI" URL="../User Events Cluster.ctl"/>
