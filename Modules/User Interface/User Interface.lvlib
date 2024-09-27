@@ -8,6 +8,9 @@
 
 </Property>
 	<Item Name="API" Type="Folder">
+		<Item Name="Errors" Type="Folder">
+			<Item Name="Verify Errors.vi" Type="VI" URL="../Verify Errors.vi"/>
+		</Item>
 		<Item Name="Interfaces" Type="Folder">
 			<Item Name="Edit Devices Menu View.vi" Type="VI" URL="../Edit Devices Menu View.vi"/>
 			<Item Name="Edit Existing Devices.vi" Type="VI" URL="../Edit Existing Devices.vi"/>
@@ -19,7 +22,6 @@
 		<Item Name="Manage RunTime Checkbox.vi" Type="VI" URL="../Manage RunTime Checkbox.vi"/>
 		<Item Name="Set App View.vi" Type="VI" URL="../Set App View.vi"/>
 		<Item Name="Validate Device Data to Search.vi" Type="VI" URL="../Validate Device Data to Search.vi"/>
-		<Item Name="Verify Errors.vi" Type="VI" URL="../Verify Errors.vi"/>
 	</Item>
 	<Item Name="Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
