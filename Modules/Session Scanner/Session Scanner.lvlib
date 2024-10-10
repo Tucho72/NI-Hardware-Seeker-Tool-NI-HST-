@@ -33,4 +33,5 @@
 		<Item Name="Scanner - Top VI.vi" Type="VI" URL="../Scanner - Top VI.vi"/>
 		<Item Name="Scanner Queue - Polymorphic.vi" Type="VI" URL="../Scanner Queue - Polymorphic.vi"/>
 	</Item>
+	<Item Name="Discover SSH Device.vi" Type="VI" URL="../Discover SSH Device.vi"/>
 </Library>
